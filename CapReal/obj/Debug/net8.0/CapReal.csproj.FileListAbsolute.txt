@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\CapReal\CapReal\bin\Debug\net8.0\CapReal.exe
+C:\Users\Gabriel\Desktop\CapReal\CapReal\bin\Debug\net8.0\CapReal.deps.json
+C:\Users\Gabriel\Desktop\CapReal\CapReal\bin\Debug\net8.0\CapReal.runtimeconfig.json
+C:\Users\Gabriel\Desktop\CapReal\CapReal\bin\Debug\net8.0\CapReal.dll
+C:\Users\Gabriel\Desktop\CapReal\CapReal\bin\Debug\net8.0\CapReal.pdb
+C:\Users\Gabriel\Desktop\CapReal\CapReal\obj\Debug\net8.0\CapReal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\CapReal\CapReal\obj\Debug\net8.0\CapReal.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\CapReal\CapReal\obj\Debug\net8.0\CapReal.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\CapReal\CapReal\obj\Debug\net8.0\CapReal.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\CapReal\CapReal\obj\Debug\net8.0\CapReal.dll
+C:\Users\Gabriel\Desktop\CapReal\CapReal\obj\Debug\net8.0\refint\CapReal.dll
+C:\Users\Gabriel\Desktop\CapReal\CapReal\obj\Debug\net8.0\CapReal.pdb
+C:\Users\Gabriel\Desktop\CapReal\CapReal\obj\Debug\net8.0\CapReal.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\CapReal\CapReal\obj\Debug\net8.0\ref\CapReal.dll

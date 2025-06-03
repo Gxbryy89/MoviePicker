@@ -1,0 +1,15 @@
+Azione; Thunderbolts; 118
+Horror; Predator Badlands; 107
+Azione; Predator Badlands; 107
+Animazione; The Square; 76
+Animazione; Il Viaggio di Luma; 97
+Avventura; Il Viaggio di Luma; 97
+Commedia; Caos in Famiglia; 120 
+Musicale; Note Ribelli; 122
+Musicale; Andy Warhol – American Dream; 104 
+Drammatico; A Big Bold Beautiful Journey; 139 
+Drammatico; Io sono Rosa Ricci; 130 
+
+
+Horror, The conjuring, 112
+Horror, The congiuring 2, 134
